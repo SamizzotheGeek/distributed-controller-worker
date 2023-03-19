@@ -32,7 +32,7 @@ const jobs = [];
 const done = [];
 
 const JOBSIZE = 5e8;
-const JOBCOUNT = 200;
+const JOBCOUNT = 30;
 
 // generate jobs
 for (let i = 0; i < JOBCOUNT; i += 1) {
